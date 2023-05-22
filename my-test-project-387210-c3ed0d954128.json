@@ -1,0 +1,26 @@
+{
+  "type": "service_account",
+  "project_id": "my-test-project-387210",
+  "private_key_id": "c3ed0d954128ca45323c9de0340519a4ac0a7dce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKOPT7eLFvZgr3\nX0wv9KpLkbfligcr7HutoEMOEwgsfF6NDhRYEodEMKDhUp6NEfoTEquiFNXqHbtO\nrseo9HlGKBIApGez0aurD5yku1K6fWQhCkbuJwaH/9aj9eipfeQMi/Uh/R7pzLrY\nvQpjWTOxcr+KmxrZKs1F07g6EbXtIy+VeTXJBO7YplbD6LthhRuBFdfAAdLRCvnn\nxjNMbuPMj5XxMf9leX/m89RUPkuuZkt/dBzXz4IncWc15ZDiZ2DxQJmL2s31NyVX\nQNuepsOiF9Pg2nAHOx2zoGNm/Km2tFNycJWcthRkUfhNvTwI5fHqZv11I+9bHAnC\nivCNjLp9AgMBAAECggEAB9Pk68Jev+ynxQPmgOlhbtPBALzIjUiLUGERPL9mLsP7\nrE3HYideyWLGf3esFSgv0W2EwPKPMI+eZgEkT7kdjqZ+F+dFRQkl3NUZtP4JSZhm\noqlxWHD18u1neL5L7MT86bLAi48Zk2buM/Xmq999PZkEVWWunYm8xhStdMClwFGY\nKMT7pe1Cgz6OlJiNZUFATX2DYzePO1ajZI5JW2HLemhAYg27yYdgezJTL16E62j2\nfLK8QnN59Zy1/LmR2WmwnmXqYxZnDoUOo6Fjd1S5/rKQ61wCWJW3jvAOqDwxcw4A\nLvFm1kVkDu8mlQfYeSDJsEMz8lUSPBooNSjo0ml14QKBgQD6i/9DWoteZJXVon3Y\nZGbKEw4VYvSd9ni2D+tWZfOX67t8RCMwuC31+/bRIsFxJ7CyCICcDpn872p3K2Qq\n7NKt0BpudzWylxTYINLmb23yjq9ybyIkNjQnZq1xj7TCzCUWBYd96IazRI11RiKx\n/Nd6UWvlkRfkf87l9TbIYObnDQKBgQDOn7R32RC4t6K6gEeEeCaFFv6SVtV9n11/\nabCoBYffy+7hWjrfO95vCLF1DeUrMldKJb56OYBsgMSx5txL+dUDCzsLnLsXaAMR\n21GkUGLZCe68Gv4BpxMXRErdOaLKFJyajqP9P0Vcr0uqp0oPgenjSKGYiOde2XIC\nWdr6lGRFMQKBgQCLRHhuqwzfOlAjQUBsoVqVpsPkVW4dxBxTL0QkcWVXJBzCNWnO\nMgKyQg1vML+QM3y/aYR7uo4UD80BUuhKB/wPy6Z1kuQRUnOus4gnuPbHplKV7Hpw\n4IRbBnMQtc3HngxbUlV/QlplmYx8DLFKeH4aKtor8Fv0kqqiHo0GEv8mnQKBgBHJ\nufWfYEsmtAGuTXngBiDrC9t5UkPQVnJDnQu5/iqMGfKYm/zf4JRagTx8h8AiQ1WE\nzlMjZCTzKPvPziNUTLxIWTr0sT6gm7ML2Il2yiu5KS5UfI2T3pbgMDm/Xn5bK+g6\nY2/H5KbICJGWeU/AdWw1soO5NYH64k/FgI6V+9PhAoGBAOhc8mrKHSLGcd6ximFm\nIk63O1I2qanoLkl1vdXg9fMqg3wWpCdUv7hkBftw72xFp4hBuBvZfdNVaQ1WMci9\ns67u22JWYDXNUoqexKPErmZjKeD98NWqJkgThtCKUvDNVQqpmeT8pXwnlSAbfII1\niQIBdXsX6Hq9OQ29v4z5Bk+U\n-----END PRIVATE KEY-----\n",
+  "client_email": "uber-data-engineering-project@my-test-project-387210.iam.gserviceaccount.com",
+  "client_id": "104390385389312299115",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-data-engineering-project%40my-test-project-387210.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
+
+
+
+
+project_id: "my-test-project-387210"
+    private_key_id: "c3ed0d954128ca45323c9de0340519a4ac0a7dce"
+    private_key: "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKOPT7eLFvZgr3\nX0wv9KpLkbfligcr7HutoEMOEwgsfF6NDhRYEodEMKDhUp6NEfoTEquiFNXqHbtO\nrseo9HlGKBIApGez0aurD5yku1K6fWQhCkbuJwaH/9aj9eipfeQMi/Uh/R7pzLrY\nvQpjWTOxcr+KmxrZKs1F07g6EbXtIy+VeTXJBO7YplbD6LthhRuBFdfAAdLRCvnn\nxjNMbuPMj5XxMf9leX/m89RUPkuuZkt/dBzXz4IncWc15ZDiZ2DxQJmL2s31NyVX\nQNuepsOiF9Pg2nAHOx2zoGNm/Km2tFNycJWcthRkUfhNvTwI5fHqZv11I+9bHAnC\nivCNjLp9AgMBAAECggEAB9Pk68Jev+ynxQPmgOlhbtPBALzIjUiLUGERPL9mLsP7\nrE3HYideyWLGf3esFSgv0W2EwPKPMI+eZgEkT7kdjqZ+F+dFRQkl3NUZtP4JSZhm\noqlxWHD18u1neL5L7MT86bLAi48Zk2buM/Xmq999PZkEVWWunYm8xhStdMClwFGY\nKMT7pe1Cgz6OlJiNZUFATX2DYzePO1ajZI5JW2HLemhAYg27yYdgezJTL16E62j2\nfLK8QnN59Zy1/LmR2WmwnmXqYxZnDoUOo6Fjd1S5/rKQ61wCWJW3jvAOqDwxcw4A\nLvFm1kVkDu8mlQfYeSDJsEMz8lUSPBooNSjo0ml14QKBgQD6i/9DWoteZJXVon3Y\nZGbKEw4VYvSd9ni2D+tWZfOX67t8RCMwuC31+/bRIsFxJ7CyCICcDpn872p3K2Qq\n7NKt0BpudzWylxTYINLmb23yjq9ybyIkNjQnZq1xj7TCzCUWBYd96IazRI11RiKx\n/Nd6UWvlkRfkf87l9TbIYObnDQKBgQDOn7R32RC4t6K6gEeEeCaFFv6SVtV9n11/\nabCoBYffy+7hWjrfO95vCLF1DeUrMldKJb56OYBsgMSx5txL+dUDCzsLnLsXaAMR\n21GkUGLZCe68Gv4BpxMXRErdOaLKFJyajqP9P0Vcr0uqp0oPgenjSKGYiOde2XIC\nWdr6lGRFMQKBgQCLRHhuqwzfOlAjQUBsoVqVpsPkVW4dxBxTL0QkcWVXJBzCNWnO\nMgKyQg1vML+QM3y/aYR7uo4UD80BUuhKB/wPy6Z1kuQRUnOus4gnuPbHplKV7Hpw\n4IRbBnMQtc3HngxbUlV/QlplmYx8DLFKeH4aKtor8Fv0kqqiHo0GEv8mnQKBgBHJ\nufWfYEsmtAGuTXngBiDrC9t5UkPQVnJDnQu5/iqMGfKYm/zf4JRagTx8h8AiQ1WE\nzlMjZCTzKPvPziNUTLxIWTr0sT6gm7ML2Il2yiu5KS5UfI2T3pbgMDm/Xn5bK+g6\nY2/H5KbICJGWeU/AdWw1soO5NYH64k/FgI6V+9PhAoGBAOhc8mrKHSLGcd6ximFm\nIk63O1I2qanoLkl1vdXg9fMqg3wWpCdUv7hkBftw72xFp4hBuBvZfdNVaQ1WMci9\ns67u22JWYDXNUoqexKPErmZjKeD98NWqJkgThtCKUvDNVQqpmeT8pXwnlSAbfII1\niQIBdXsX6Hq9OQ29v4z5Bk+U\n-----END PRIVATE KEY-----\n"
+    client_email: "uber-data-engineering-project@my-test-project-387210.iam.gserviceaccount.com"
+    auth_uri: "https://accounts.google.com/o/oauth2/auth"
+    token_uri: "https://oauth2.googleapis.com/token"
+    auth_provider_x509_cert_url:  "https://www.googleapis.com/oauth2/v1/certs"
+    client_x509_cert_url: "https://www.googleapis.com/robot/v1/metadata/x509/uber-data-engineering-project%40my-test-project-387210.iam.gserviceaccount.com"
